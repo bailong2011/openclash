@@ -4,3 +4,13 @@
 # 域名后缀匹配
 DOMAIN,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,pt.aliexpress.com
+DOMAIN-SUFFIX,es.aliexpress.com
+DOMAIN-SUFFIX,fr.aliexpress.com
+DOMAIN-SUFFIX,de.aliexpress.com
+DOMAIN-SUFFIX,it.aliexpress.com
+DOMAIN-SUFFIX,nl.aliexpress.com
+DOMAIN-SUFFIX,tr.aliexpress.com
+DOMAIN-SUFFIX,ja.aliexpress.com
+DOMAIN-SUFFIX,ko.aliexpress.com
