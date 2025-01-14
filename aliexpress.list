@@ -5,6 +5,7 @@
 DOMAIN,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,aliexpress.us
 DOMAIN-SUFFIX,pt.aliexpress.com
 DOMAIN-SUFFIX,es.aliexpress.com
 DOMAIN-SUFFIX,fr.aliexpress.com
@@ -14,3 +15,4 @@ DOMAIN-SUFFIX,nl.aliexpress.com
 DOMAIN-SUFFIX,tr.aliexpress.com
 DOMAIN-SUFFIX,ja.aliexpress.com
 DOMAIN-SUFFIX,ko.aliexpress.com
+DOMAIN-SUFFIX,ziniao.com
