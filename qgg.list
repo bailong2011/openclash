@@ -1,0 +1,6 @@
+# 内容：去广告
+# 域名关键字匹配
+DOMAIN-KEYWORD,广告
+# 域名后缀匹配
+DOMAIN,xxx.com
+DOMAIN-SUFFIX,xxx.com
