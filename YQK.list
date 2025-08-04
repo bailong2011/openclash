@@ -1,7 +1,7 @@
 # 内容：YQK26.APP
 # 域名关键字匹配
- DOMAIN-KEYWORD,playback
- DOMAIN-KEYWORD,YQK
+DOMAIN-KEYWORD,playback
+DOMAIN-KEYWORD,YQK
 DOMAIN-KEYWORD,svip
 # 域名后缀匹配
 DOMAIN,svip.high25-playback.com
@@ -10,8 +10,7 @@ DOMAIN,svip.high22-playback.com
 DOMAIN,yzy0916.0mjixs22y.com
 DOMAIN,yqk.j3kjn242sq.com
 DOMAIN,yzzy.play-cdn18.com
-
 DOMAIN-SUFFIX,high25-playback.com
 DOMAIN-SUFFIX,high24-playback.com
-
 DOMAIN-SUFFIX,high22-playback.com
+
