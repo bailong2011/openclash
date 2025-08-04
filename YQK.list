@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,playback
 DOMAIN-KEYWORD,YQK
 DOMAIN-KEYWORD,svip
+DOMAIN-KEYWORD,yzzy.play
 # 域名后缀匹配
 DOMAIN,svip.high25-playback.com
 DOMAIN,svip.high24-playback.com
@@ -10,7 +11,15 @@ DOMAIN,svip.high22-playback.com
 DOMAIN,yzy0916.0mjixs22y.com
 DOMAIN,yqk.j3kjn242sq.com
 DOMAIN,yzzy.play-cdn18.com
+DOMAIN,yzzy.play-cdn19.com
+DOMAIN,yzzy.play-cdn20.com
+DOMAIN,yzzy.play-cdn21.com
 DOMAIN-SUFFIX,high25-playback.com
 DOMAIN-SUFFIX,high24-playback.com
 DOMAIN-SUFFIX,high22-playback.com
+DOMAIN-SUFFIX,yzzy.play-cdn18.com
+DOMAIN-SUFFIX,yzzy.play-cdn19.com
+DOMAIN-SUFFIX,yzzy.play-cdn20.com
+DOMAIN-SUFFIX,yzzy.play-cdn21.com
+
 
