@@ -2,11 +2,10 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,aliyuncs.com
+DOMAIN-KEYWORD,alibaba-inc
 # 域名后缀匹配
 DOMAIN-SUFFIX,arms.aliyuncs.com
 DOMAIN-SUFFIX,epss.alibaba-inc.com
-DOMAIN,arms.aliyuncs.com
-DOMAIN,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,aliexpress.us
@@ -19,6 +18,7 @@ DOMAIN-SUFFIX,nl.aliexpress.com
 DOMAIN-SUFFIX,tr.aliexpress.com
 DOMAIN-SUFFIX,ja.aliexpress.com
 DOMAIN-SUFFIX,ko.aliexpress.com
+
 
 
 
